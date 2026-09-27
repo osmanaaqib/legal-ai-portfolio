@@ -1,0 +1,22 @@
+[
+  {
+    "id": "clause_lol",
+    "type": "limitation_of_liability",
+    "text": "In no event shall either party be liable to the other for any indirect, incidental, special, or consequential damages, whether based on breach of contract, tort, or otherwise. Each party's total aggregate liability under this Agreement shall not exceed the total fees paid by Customer in the twelve (12) months preceding the claim."
+  },
+  {
+    "id": "clause_indem",
+    "type": "indemnification",
+    "text": "Each party shall indemnify, defend, and hold harmless the other party from and against any and all claims, losses, damages, and expenses arising out of or relating to the indemnifying party's breach of this Agreement or negligent acts or omissions."
+  },
+  {
+    "id": "clause_term",
+    "type": "termination",
+    "text": "This Agreement may be terminated by either party upon sixty (60) days' prior written notice to the other party. Upon termination, Customer shall pay all fees accrued through the effective date of termination."
+  },
+  {
+    "id": "clause_conf",
+    "type": "confidentiality",
+    "text": "Each party agrees to maintain the confidentiality of the other party's Confidential Information for a period of three (3) years from the date of disclosure. Upon request, the receiving party shall return or destroy all Confidential Information in its possession."
+  }
+]

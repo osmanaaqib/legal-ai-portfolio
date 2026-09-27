@@ -1,0 +1,52 @@
+{
+  "Alpha LLP": {
+    "posture": "Conservative. Risk-averse. Prefers mutual obligations, low caps, broad exit rights. Protecting downside is more important than winning the deal.",
+    "positions": {
+      "limitation_of_liability": {
+        "position": "Mutual cap at 1x fees paid in the prior 12 months. Exclude all consequential, indirect, and special damages.",
+        "priority": "High",
+        "accept": "2x fees cap with carve-outs only for fraud and wilful misconduct."
+      },
+      "indemnification": {
+        "position": "Mutual indemnification, limited to third-party claims. No indemnification for direct losses between the parties.",
+        "priority": "High",
+        "accept": "One-way indemnification favoring the client, but only for IP infringement."
+      },
+      "termination": {
+        "position": "Either party may terminate for convenience on 30 days' written notice, with no penalty.",
+        "priority": "Medium",
+        "accept": "For convenience on 60 days' notice, with a pro-rata refund of prepaid fees."
+      },
+      "confidentiality": {
+        "position": "Mutual confidentiality, 5-year term from disclosure. Return or destroy on request.",
+        "priority": "Medium",
+        "accept": "3-year term, with standard carve-outs for legal compulsion."
+      }
+    }
+  },
+  "Beta Partners": {
+    "posture": "Commercial. Aggressive. Prefers one-way protections favoring the client, higher liability caps for counterparty exposure, harder exit provisions. Winning the deal is more important than minimizing downside.",
+    "positions": {
+      "limitation_of_liability": {
+        "position": "Cap at 3x fees paid in the prior 12 months. Carve-outs for IP infringement, data breach, and confidentiality breach — uncapped for those.",
+        "priority": "High",
+        "accept": "2x cap with IP and data breach carve-outs only."
+      },
+      "indemnification": {
+        "position": "One-way indemnification favoring the client, broad scope covering all third-party claims and regulatory actions.",
+        "priority": "High",
+        "accept": "One-way indemnification limited to IP infringement and data breach."
+      },
+      "termination": {
+        "position": "Termination for cause only, with a 90-day cure period. No termination for convenience.",
+        "priority": "High",
+        "accept": "For convenience on 180 days' notice, with an early termination fee."
+      },
+      "confidentiality": {
+        "position": "Perpetual for trade secrets. 3-year term for other confidential information. No return obligation if legally required to retain.",
+        "priority": "Medium",
+        "accept": "5-year term for trade secrets, 2-year term for other information."
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+clause,type,alpha_adherence,beta_adherence,alpha_verdict,beta_verdict,similarity,alpha_output,beta_output
+clause_lol,limitation_of_liability,100,0,Accept,Push back,0.832,"VERDICT: Accept  
+REASONING: The counterpart’s clause provides a mutual liability cap equal to the fees paid in the preceding 12 months and excludes all indirect, incidental, special, and consequentia","**VERDICT:** Push back  
+
+**REASONING:** The counterpart’s clause caps liability at the fees paid and eliminates indirect damages, which is far too restrictive for our client. Our playbook calls for a"
+clause_indem,indemnification,100,70,Push back,Push back,0.809,"**VERDICT:** Push back  
+
+**REASONING:** The proposed clause obligates each party to indemnify for all claims, losses, damages, and expenses, including direct losses between the parties, which exceeds","**VERDICT:** Push back  
+
+**REASONING:** The counter‑party’s mutual indemnity runs counter to our playbook, which calls for a one‑way indemnity that protects our client and places the full burden on t"
+clause_term,termination,100,100,Push back,Push back,0.815,"VERDICT: Push back  
+REASONING: The counterpart’s clause allows termination on 60‑day notice but forces the Customer to pay all fees accrued, providing no refund of prepaid amounts. This conflicts wit","**VERDICT:** Push back  
+
+**REASONING:** The counterparty’s clause grants unilateral termination for convenience on 60‑day notice, which conflicts with our playbook’s position of “termination for caus"
+clause_conf,confidentiality,50,100,Push back,Push back,0.769,"**VERDICT:** Push back  
+
+**REASONING:** The counterpart’s clause limits the confidentiality period to three years and omits the standard carve‑outs for disclosures compelled by law, which falls short","**VERDICT:** Push back  
+
+**REASONING:** The counterpart’s blanket three‑year term does not meet our playbook’s requirement for perpetual protection of trade secrets, nor does it allow us to retain in"

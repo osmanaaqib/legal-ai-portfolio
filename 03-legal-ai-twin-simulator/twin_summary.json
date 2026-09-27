@@ -1,0 +1,9 @@
+{
+  "n_firms": 2,
+  "n_clauses": 4,
+  "alpha_avg_adherence": 87.5,
+  "beta_avg_adherence": 67.5,
+  "overall_avg_adherence": 77.5,
+  "avg_similarity": 0.806,
+  "verdict_divergence_count": 1
+}
