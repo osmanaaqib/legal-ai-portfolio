@@ -1,4 +1,4 @@
-# HAQQ Legal Engineer Portfolio
+# Legal Engineer Portfolio
 
 This repository is my application for the Legal Engineer role at HAQQ.
 
