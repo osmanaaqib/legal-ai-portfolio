@@ -32,10 +32,14 @@ queries. A metadata router reduced that to zero, without touching the model.
 
 ### 03 — Legal AI Twin Simulator
 
-*In development.*
+Two synthetic firms with opposing risk postures. Same contract clause
+submitted to both. Each twin retrieves its own playbook and produces a
+redline recommendation. Measures whether each twin stays faithful to its
+playbook, and whether the two twins actually diverge.
 
-A demonstration of how institutional context — a firm's risk posture and
-drafting style — can be encoded into a legal AI system.
+**Result:** overall adherence 77.5%. Divergence is moderate rather than
+strong, and one twin's reasoning collapsed on a single clause. The
+findings document where the concept holds and where it breaks.
 
 ## Why I Built This
 
