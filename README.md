@@ -75,4 +75,4 @@ Start with `01-civil-law-ground-truth-curator/`. It is the centerpiece.
 
 Aaqib Osman
 osmanaaqib@gmail.com
-linkedin.com/in/aaqib-osman-aa69b4215
+linkedin.com/in/aaqib-osman-aa69b4215 
