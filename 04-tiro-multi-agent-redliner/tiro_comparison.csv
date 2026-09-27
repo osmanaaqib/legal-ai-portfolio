@@ -1,0 +1,5 @@
+condition,chars,citations,track_changes
+Baseline (Alpha),2432,0,3
+Pipeline (Alpha),6302,1,5
+Baseline (Beta),2599,0,3
+Pipeline (Beta),6628,0,10

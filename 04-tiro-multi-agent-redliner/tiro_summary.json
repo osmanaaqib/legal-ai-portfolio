@@ -1,0 +1,18 @@
+{
+  "baseline_alpha_chars": 2432,
+  "pipeline_alpha_chars": 6302,
+  "baseline_alpha_citations": 0,
+  "pipeline_alpha_citations": 1,
+  "baseline_alpha_track_changes": 3,
+  "pipeline_alpha_track_changes": 5,
+  "baseline_beta_chars": 2599,
+  "pipeline_beta_chars": 6628,
+  "baseline_beta_citations": 0,
+  "pipeline_beta_citations": 0,
+  "baseline_beta_track_changes": 3,
+  "pipeline_beta_track_changes": 10,
+  "baseline_similarity": 0.709,
+  "pipeline_similarity": 0.746,
+  "n_agents": 27,
+  "n_rounds": 6
+}

@@ -1,0 +1,22 @@
+{
+  "Alpha LLP": {
+    "posture": "Conservative. Risk-averse. Prefers mutual obligations, low caps, broad exit rights. Protecting downside is more important than winning the deal.",
+    "positions": {
+      "limitation_of_liability": {
+        "position": "Mutual cap at 1x fees paid in the prior 12 months. Exclude all consequential, indirect, and special damages.",
+        "priority": "High",
+        "accept": "2x fees cap with carve-outs only for fraud and wilful misconduct."
+      }
+    }
+  },
+  "Beta Partners": {
+    "posture": "Commercial. Aggressive. Prefers one-way protections favoring the client, higher liability caps for counterparty exposure, harder exit provisions. Winning the deal is more important than minimizing downside.",
+    "positions": {
+      "limitation_of_liability": {
+        "position": "Cap at 3x fees paid in the prior 12 months. Carve-outs for IP infringement, data breach, and confidentiality breach — uncapped for those.",
+        "priority": "High",
+        "accept": "2x cap with IP and data breach carve-outs only."
+      }
+    }
+  }
+}
