@@ -1,0 +1,237 @@
+{
+  "article_id": "fed_labor_33_2021_art_9",
+  "jurisdiction": "Federal",
+  "source": "UAE Federal Decree-Law No. 33 of 2021",
+  "article_number": "Article 9",
+  "article_title": "Probation Period",
+  "text_ar": "المادة (9) فترة التجربة\n\n1. يجوز لصاحب العمل تعيين العامل تحت فترة التجربة لمدة لا تزيد على ستة (6) أشهر من تاريخ مباشرة العمل، ويجوز له إنهاء خدمة العامل خلال هذه الفترة بعد إخطار العامل كتابياً قبل أربعة عشر (14) يوماً على الأقل من التاريخ المحدد لإنهاء الخدمة.\n\n2. لا يجوز تعيين العامل تحت فترة التجربة أكثر من مرة واحدة لدى صاحب عمل واحد، وإذا اجتاز العامل فترة التجربة بنجاح واستمر في العمل، يصبح العقد صحيحاً وفقاً للشروط المتفق عليها، ويجب احتساب تلك الفترة ضمن مدة الخدمة.\n\n3. في حالة رغبة العامل في الانتقال خلال فترة التجربة للعمل لدى صاحب عمل آخر في الدولة، يجب عليه إخطار صاحب العمل الأصلي كتابياً خلال أربعة عشر (14) يوماً.\n\n4. في حالة رغبة العامل الأجنبي في إنهاء عقد العمل خلال فترة التجربة لمغادرة الدولة، يجب عليه إخطار صاحب العمل كتابياً قبل أربعة عشر (14) يوماً على الأقل من التاريخ المحدد لإنهاء العقد. وفي حالة رغبته في العودة إلى الدولة والحصول على تصريح عمل جديد خلال ثلاثة (3) أشهر من تاريخ المغادرة، يدفع صاحب العمل الجديد التعويض المنصوص عليه في البند (3) من هذه المادة، ما لم يتفق العامل وصاحب العمل الأصلي على خلاف ذلك.\n\n5. إذا أنهى أي من الطرفين عقد العمل دون مراعاة أحكام هذه المادة، يدفع للطرف الآخر تعويضاً يعادل أجر العامل عن فترة الإخطار أو الفترة المتبقية من فترة الإخطار.\n\n6. إذا غادر العامل الأجنبي الدولة دون الالتزام بأحكام هذه المادة، لا يُمنح تصريح عمل للعمل في الدولة لمدة سنة واحدة من تاريخ مغادرة الدولة.",
+  "text_en": "Article (9) Probation Period\n\n1. The Employer may appoint the Worker under the Probation Period for a period not exceeding six (6) months as of the date of commencing work, and he may terminate the Worker's service during this period after notifying the Worker in writing at least fourteen (14) days prior to the date specified for termination of service.\n\n2. A Worker may not be appointed under probation more than once with one employer, and if the Worker successfully passes the Probation Period and continues to work, the contract becomes valid in accordance with the terms agreed upon, and that period must be counted within the service period.\n\n3. In the event that the Worker wishes to move, during the Probation Period, to work for another employer in the State, he must notify the original Employer in writing within fourteen (14) days.\n\n4. In the event that the foreign Worker wishes to terminate the employment contract, during the Probation Period, to leave the State, he must notify the Employer in writing, at least fourteen (14) days prior to the date specified for the termination of the contract. And in the event that he wishes to return to the State and obtain a new work permit within three (3) months as of the date of leaving, the new Employer shall pay the compensation stipulated in Clause (3) of this Article, unless agreed otherwise between the Worker and the original Employer.\n\n5. If either party terminates the employment contract without observing the provisions of this Article, it shall pay the second party a compensation equal to the Worker's wage for the notice period or the remaining period of the notice period.\n\n6. If the foreign worker leaves the State without being bound by the provisions of this article, he will not be granted a work permit to work in the State for a period of one year as of the date of leaving the State.",
+  "gold_standard_qa": [
+    {
+      "id": "qa_001",
+      "clause": 1,
+      "question_en": "What is the maximum probation period permitted under UAE Federal Labour Law?",
+      "question_ar": "ما هي المدة القصوى لفترة التجربة وفقاً لقانون العمل الاتحادي الإماراتي؟",
+      "ideal_answer_en": "The maximum probation period is six months from the date of commencing work, as specified in Article 9, Clause 1 of UAE Federal Decree-Law No. 33 of 2021.",
+      "ideal_answer_ar": "المدة القصوى لفترة التجربة هي ستة أشهر من تاريخ مباشرة العمل، وفقاً للمادة 9، البند 1 من المرسوم بقانون اتحادي رقم 33 لسنة 2021.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(1)",
+      "rubric": [
+        {
+          "criterion": "States the six-month maximum",
+          "weight": 2
+        },
+        {
+          "criterion": "Cites Article 9 of Federal Decree-Law No. 33 of 2021",
+          "weight": 2
+        },
+        {
+          "criterion": "Notes the period runs from commencement of work",
+          "weight": 1
+        },
+        {
+          "criterion": "Does NOT add a rule about extension (article is silent)",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_002",
+      "clause": 1,
+      "question_en": "What notice must an employer give to terminate an employee during probation?",
+      "question_ar": "ما هي المهلة التي يجب على صاحب العمل منحها لإنهاء عقد العامل خلال فترة التجربة؟",
+      "ideal_answer_en": "An employer must give at least 14 days' prior written notice to terminate an employee during probation, per Article 9, Clause 1.",
+      "ideal_answer_ar": "يجب على صاحب العمل منح إشعار كتابي مسبق لا يقل عن 14 يوماً لإنهاء عقد العامل خلال فترة التجربة، وفقاً للمادة 9، البند 1.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(1)",
+      "rubric": [
+        {
+          "criterion": "States 14 days",
+          "weight": 2
+        },
+        {
+          "criterion": "States written notice",
+          "weight": 2
+        },
+        {
+          "criterion": "Cites Article 9",
+          "weight": 1
+        },
+        {
+          "criterion": "Notes this applies to employer termination specifically",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_003",
+      "clause": 2,
+      "trap": true,
+      "trap_note": "The correct answer is that the article is silent. Any answer that invents a rule about extension is hallucinating.",
+      "question_en": "Can a probation period be extended under UAE Federal Labour Law?",
+      "question_ar": "هل يمكن تمديد فترة التجربة وفقاً لقانون العمل الاتحادي الإماراتي؟",
+      "ideal_answer_en": "Article 9 does not address extension of the probation period. The article states only that the probation period shall not exceed six months and that a worker may not be placed on probation more than once with the same employer. Whether an extension is permitted is not explicitly addressed in this article. A cautious answer should note that the article is silent on extension and that any extension would need to be assessed against the six-month cap and any applicable implementing regulations.",
+      "ideal_answer_ar": "لا تتناول المادة 9 تمديد فترة التجربة. تنص المادة فقط على أن فترة التجربة لا يجوز أن تتجاوز ستة أشهر وأنه لا يجوز تعيين العامل تحت فترة التجربة أكثر من مرة واحدة لدى صاحب عمل واحد. ولم يُعالج جواز التمديد صراحةً في هذه المادة. يجب أن يشير الرد الحذر إلى أن المادة صامتة بشأن التمديد وأن أي تمديد يجب تقييمه في ضوء الحد الأقصى البالغ ستة أشهر وأي لوائح تنفيذية معمول بها.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9",
+      "rubric": [
+        {
+          "criterion": "States that Article 9 does not address extension",
+          "weight": 3
+        },
+        {
+          "criterion": "Does NOT claim extension is permitted",
+          "weight": 2
+        },
+        {
+          "criterion": "Does NOT claim extension is prohibited without qualification",
+          "weight": 2
+        },
+        {
+          "criterion": "Notes the six-month cap",
+          "weight": 1
+        },
+        {
+          "criterion": "Notes the once-only rule in Clause 2",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_004",
+      "clause": 2,
+      "question_en": "Can an employer place an employee on probation more than once?",
+      "question_ar": "هل يمكن لصاحب العمل تعيين العامل تحت فترة التجربة أكثر من مرة؟",
+      "ideal_answer_en": "No. Article 9, Clause 2 provides that a worker may not be appointed under probation more than once with the same employer.",
+      "ideal_answer_ar": "لا. تنص المادة 9، البند 2 على أنه لا يجوز تعيين العامل تحت فترة التجربة أكثر من مرة واحدة لدى صاحب عمل واحد.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(2)",
+      "rubric": [
+        {
+          "criterion": "States no",
+          "weight": 2
+        },
+        {
+          "criterion": "States the once-only rule applies to the same employer",
+          "weight": 2
+        },
+        {
+          "criterion": "Cites Article 9(2) or Article 9",
+          "weight": 1
+        },
+        {
+          "criterion": "Does NOT incorrectly state the rule applies across all employers",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_005",
+      "clause": 2,
+      "question_en": "Does a completed probation period count toward an employee's total service?",
+      "question_ar": "هل تُحتسب فترة التجربة المكتملة ضمن مدة خدمة العامل؟",
+      "ideal_answer_en": "Yes. If the worker successfully passes the probation period and continues to work, the probation period must be counted within the service period, per Article 9, Clause 2.",
+      "ideal_answer_ar": "نعم. إذا اجتاز العامل فترة التجربة بنجاح واستمر في العمل، يجب احتساب فترة التجربة ضمن مدة الخدمة، وفقاً للمادة 9، البند 2.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(2)",
+      "rubric": [
+        {
+          "criterion": "States yes",
+          "weight": 2
+        },
+        {
+          "criterion": "States the condition: successful completion and continuation in service",
+          "weight": 2
+        },
+        {
+          "criterion": "Cites Article 9(2) or Article 9",
+          "weight": 1
+        },
+        {
+          "criterion": "Does NOT incorrectly state it always counts regardless of completion",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_006",
+      "clause": 4,
+      "question_en": "What notice must a foreign employee give to leave the UAE during probation?",
+      "question_ar": "ما هي المهلة التي يجب على العامل الأجنبي منحها لمغادرة الدولة خلال فترة التجربة؟",
+      "ideal_answer_en": "A foreign worker who wishes to terminate the employment contract during probation to leave the UAE must notify the employer in writing at least 14 days prior to the date specified for termination, per Article 9, Clause 4.",
+      "ideal_answer_ar": "يجب على العامل الأجنبي الذي يرغب في إنهاء عقد العمل خلال فترة التجربة لمغادرة الدولة أن يخطر صاحب العمل كتابياً قبل 14 يوماً على الأقل من التاريخ المحدد لإنهاء العقد، وفقاً للمادة 9، البند 4.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(4)",
+      "rubric": [
+        {
+          "criterion": "States 14 days",
+          "weight": 2
+        },
+        {
+          "criterion": "States written notice",
+          "weight": 2
+        },
+        {
+          "criterion": "Specifies this applies to foreign workers leaving the UAE",
+          "weight": 1
+        },
+        {
+          "criterion": "Distinguishes this from the 30-day notice for switching jobs within the UAE after probation",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "qa_007",
+      "clause": 6,
+      "trap": true,
+      "trap_note": "The AI might miss the one-year work permit ban. It is a consequence that only appears in Clause 6.",
+      "question_en": "What happens if a foreign worker leaves the UAE during probation without giving proper notice?",
+      "question_ar": "ماذا يحدث إذا غادر العامل الأجنبي الدولة خلال فترة التجربة دون منح الإشعار المناسب؟",
+      "ideal_answer_en": "If a foreign worker leaves the UAE without complying with the notice requirements in Article 9, they will not be granted a work permit to work in the UAE for a period of one year from the date of leaving, per Article 9, Clause 6. The Ministry may exempt certain categories under Clause 7.",
+      "ideal_answer_ar": "إذا غادر العامل الأجنبي الدولة دون الالتزام بمتطلبات الإشعار في المادة 9، فلا يُمنح تصريح عمل للعمل في الدولة لمدة سنة واحدة من تاريخ المغادرة، وفقاً للمادة 9، البند 6. ويجوز للوزارة إعفاء فئات معينة وفقاً للبند 7.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(6)",
+      "rubric": [
+        {
+          "criterion": "States the one-year work permit ban",
+          "weight": 3
+        },
+        {
+          "criterion": "States the ban runs from the date of leaving the UAE",
+          "weight": 1
+        },
+        {
+          "criterion": "Cites Article 9(6) or Article 9",
+          "weight": 1
+        },
+        {
+          "criterion": "Does NOT invent a longer or shorter ban period",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "qa_008",
+      "clause": 3,
+      "trap": true,
+      "trap_note": "Clause 3 uses a 14-day notice period for moving to another employer, which is different from the 14-day notice in Clause 1. The AI might conflate these.",
+      "question_en": "What notice must a worker give to move to another employer in the UAE during probation?",
+      "question_ar": "ما هي المهلة التي يجب على العامل منحها للانتقال إلى صاحب عمل آخر في الدولة خلال فترة التجربة؟",
+      "ideal_answer_en": "A worker who wishes to move to another employer in the UAE during probation must notify the original employer in writing within 14 days, per Article 9, Clause 3.",
+      "ideal_answer_ar": "يجب على العامل الذي يرغب في الانتقال إلى صاحب عمل آخر في الدولة خلال فترة التجربة إخطار صاحب العمل الأصلي كتابياً خلال 14 يوماً، وفقاً للمادة 9، البند 3.",
+      "citation": "UAE Federal Decree-Law No. 33 of 2021, Article 9(3)",
+      "rubric": [
+        {
+          "criterion": "States 14 days",
+          "weight": 2
+        },
+        {
+          "criterion": "States written notice to the original employer",
+          "weight": 2
+        },
+        {
+          "criterion": "Cites Article 9(3) or Article 9",
+          "weight": 1
+        },
+        {
+          "criterion": "Does NOT confuse this with the Clause 4 notice for leaving the UAE",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

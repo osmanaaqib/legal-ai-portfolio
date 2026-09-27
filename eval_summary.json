@@ -1,0 +1,11 @@
+{
+  "rag_avg": 88.9,
+  "base_avg": 42.4,
+  "gap": 46.4,
+  "rag_halluc_rate": 12.5,
+  "base_halluc_rate": 87.5,
+  "rag_trap_avg": 81.5,
+  "base_trap_avg": 41.0,
+  "n_questions": 8,
+  "n_traps": 3
+}
