@@ -1,0 +1,7 @@
+query,expected,routed,conf,filter,leak_base,leak_routed
+What is the probation period for an employee ...,Federal,Federal,medium,Federal,0.67,0.0
+فترة التجربة في مركز دبي المالي العالمي,DIFC,DIFC,high,DIFC,0.67,0.0
+ADGM probation period employment regulations,ADGM,ADGM,high,ADGM,0.67,0.0
+Data protection rules across DIFC and ADGM,ambiguous,Federal,low,all,—,—
+Can I transfer personal data outside the UAE?,Federal,Federal,medium,Federal,1.0,0.0
+DIFC data transfer adequacy requirements,DIFC,DIFC,high,DIFC,0.67,0.0

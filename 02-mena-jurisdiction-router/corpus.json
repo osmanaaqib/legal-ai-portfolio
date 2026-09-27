@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fed_labor_33_2021_art_9",
+    "jurisdiction": "Federal",
+    "regime": "onshore",
+    "source": "UAE Federal Decree-Law No. 33 of 2021",
+    "article": "Article 9",
+    "text_en": "The Employer may appoint the Worker under the Probation Period for a period not exceeding six (6) months as of the date of commencing work, and he may terminate the Worker's service during this period after notifying the Worker in writing at least fourteen (14) days prior to the date specified for termination of service.",
+    "text_ar": "يجوز لصاحب العمل تعيين العامل تحت فترة التجربة لمدة لا تزيد على ستة (6) أشهر من تاريخ مباشرة العمل، ويجوز له إنهاء خدمة العامل خلال هذه الفترة بعد إخطار العامل كتابياً قبل أربعة عشر (14) يوماً على الأقل من التاريخ المحدد لإنهاء الخدمة."
+  },
+  {
+    "id": "fed_labor_33_2021_art_10",
+    "jurisdiction": "Federal",
+    "regime": "onshore",
+    "source": "UAE Federal Decree-Law No. 33 of 2021",
+    "article": "Article 10",
+    "text_en": "If the employment contract is terminated during the probation period, the terminating party must give the other party at least three days' written notice.",
+    "text_ar": "إذا أنهي عقد العمل خلال فترة التجربة، وجب على الطرف الذي يرغب في الإنهاء إخطار الطرف الآخر كتابة قبل ثلاثة أيام على الأقل."
+  },
+  {
+    "id": "difc_employment_law_2019_art_12",
+    "jurisdiction": "DIFC",
+    "regime": "common_law_free_zone",
+    "source": "DIFC Employment Law No. 2 of 2019",
+    "article": "Article 12",
+    "text_en": "The probation period in the DIFC shall not exceed six months and must be specified in writing in the employment contract. Either party may terminate the employment contract during the probation period by giving not less than seven days' written notice.",
+    "text_ar": "لا يجوز أن تتجاوز فترة التجربة في مركز دبي المالي العالمي ستة أشهر، ويجب أن تكون مكتوبة في عقد العمل. ويجوز لأي من الطرفين إنهاء عقد العمل خلال فترة التجربة بمنح إشعار كتابي لا يقل عن سبعة أيام."
+  },
+  {
+    "id": "difc_employment_law_2019_art_13",
+    "jurisdiction": "DIFC",
+    "regime": "common_law_free_zone",
+    "source": "DIFC Employment Law No. 2 of 2019",
+    "article": "Article 13",
+    "text_en": "An employer may not require an employee to work more than 48 hours in any seven-day period, unless the employee agrees in writing to work additional hours.",
+    "text_ar": "لا يجوز لصاحب العمل أن يطلب من الموظف العمل أكثر من 48 ساعة في أي فترة سبعة أيام، ما لم يوافق الموظف كتابياً على العمل ساعات إضافية."
+  },
+  {
+    "id": "adgm_employment_regs_2021_sec_8",
+    "jurisdiction": "ADGM",
+    "regime": "common_law_free_zone",
+    "source": "ADGM Employment Regulations 2021",
+    "article": "Section 8",
+    "text_en": "The probation period in ADGM shall be three months, extendable by written agreement of both parties. During probation, either party may terminate the employment contract by giving one week's written notice.",
+    "text_ar": "تكون فترة التجربة في سوق أبوظبي العالمي ثلاثة أشهر قابلة للتمديد بموافقة كتابية من الطرفين. خلال فترة التجربة، يجوز لأي من الطرفين إنهاء عقد العمل بمنح إشعار كتابي مدته أسبوع واحد."
+  },
+  {
+    "id": "adgm_employment_regs_2021_sec_9",
+    "jurisdiction": "ADGM",
+    "regime": "common_law_free_zone",
+    "source": "ADGM Employment Regulations 2021",
+    "article": "Section 9",
+    "text_en": "An employer must provide an employee with a written statement of employment particulars within two months of the employee's start date.",
+    "text_ar": "يجب على صاحب العمل تقديم بيان كتابي بتفاصيل العمل للموظف خلال شهرين من تاريخ بدء العمل."
+  }
+]

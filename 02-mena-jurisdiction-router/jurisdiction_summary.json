@@ -1,0 +1,9 @@
+{
+  "n_documents": 6,
+  "n_jurisdictions": 3,
+  "n_queries": 6,
+  "baseline_avg_leak": 0.736,
+  "routed_avg_leak": 0.0,
+  "routing_accuracy": 0.8333333333333334,
+  "ambiguous_queries": 1
+}
