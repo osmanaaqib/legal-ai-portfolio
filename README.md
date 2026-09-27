@@ -41,6 +41,18 @@ playbook, and whether the two twins actually diverge.
 strong, and one twin's reasoning collapsed on a single clause. The
 findings document where the concept holds and where it breaks.
 
+### 04 — TIRO Multi-Agent Contract Redliner
+
+A 27-agent legal reasoning pipeline across 6 rounds. Produces redline
+recommendations for contract clauses and compares against a single-pass
+baseline.
+
+**Result:** the pipeline tripled output length and increased proposed
+track changes by up to 3.3x. Citations stayed low because the pipeline
+had no legal corpus to cite from — an honest finding about what
+multi-agent decomposition does and does not automatically produce.
+
+
 ## Why I Built This
 
 I come from government litigation in South Africa. I trained at the Office of
