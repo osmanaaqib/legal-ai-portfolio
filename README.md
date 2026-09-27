@@ -23,10 +23,12 @@ where the model could not represent legislative silence.
 
 ### 02 — MENA Jurisdiction Router
 
-*In development.*
-
 A confidence-aware retrieval system that routes legal queries across Federal,
 DIFC, and ADGM regimes without silently guessing when a query is ambiguous.
+
+**Result:** baseline retrieval leaked across jurisdictions on 73.6% of
+queries. A metadata router reduced that to zero, without touching the model.
+
 
 ### 03 — Legal AI Twin Simulator
 
