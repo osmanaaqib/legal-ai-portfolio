@@ -4,7 +4,7 @@ A collection of independent projects exploring document intelligence,
 retrieval-augmented generation, and legal reasoning in AI systems.
 
 These projects were built to understand the infrastructure that sits underneath
-serious legal AI — how ground truth gets defined, how jurisdictions get routed,
+serious legal AI. How ground truth gets defined, how jurisdictions get routed,
 how institutional context gets encoded, and how multi-agent pipelines produce
 better work product than single-pass systems.
 
@@ -52,7 +52,7 @@ does and does not automatically produce.
 
 I come from government litigation in South Africa. I trained at the Office of
 the State Attorney, the country's largest legal institution. That work taught
-me to reason structurally about legal problems — identify the controlling rule,
+me to reason structurally about legal problems, identify the controlling rule,
 the applicable jurisdiction, and the facts that actually matter.
 
 When I moved into AI work, I noticed that most legal AI systems fail at exactly
