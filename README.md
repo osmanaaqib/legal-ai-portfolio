@@ -45,7 +45,7 @@ recommendations for contract clauses and compares against a single-pass baseline
 
 **Finding:** the pipeline tripled output length and increased proposed track
 changes by up to 3.3x. Citations stayed low because the pipeline had no legal
-corpus to cite from — an honest finding about what multi-agent decomposition
+corpus to cite from. An honest finding about what multi-agent decomposition
 does and does not automatically produce.
 
 ## Why this exists
